@@ -1,2 +1,2 @@
-# project_2
-Kubernetes project
+# bully-in-kubernetes
+A template to make the Bully algorithm in Kubernetes
